@@ -1,0 +1,6 @@
+anomaly_id,source_entity,source_record_id,issue_type,anomaly_payload_json
+ANOM-001,Application,APP-CAND-001677-REQ-2026-000134,advance_without_required_review,"{""attempted_stage"": ""Offer"", ""interview_id"": ""INT-2026-000042"", ""submitted_reviews_complete"": false}"
+ANOM-002,Interview,INT-2026-000041,interviewer_double_booked,"{""conflicting_date"": ""2026-02-02"", ""conflicting_end_time"": ""10:00"", ""conflicting_start_time"": ""09:00"", ""existing_interview_id"": ""INT-2026-000041"", ""interviewer_id"": ""MGR-000040""}"
+ANOM-003,Offer,OFF-2026-000001,offer_exceeds_salary_band,"{""application_id"": ""APP-CAND-003689-REQ-2026-000181"", ""approved_max_salary"": 630000, ""approved_min_salary"": 400000, ""currency"": ""INR"", ""offered_salary"": 680000}"
+ANOM-004,Application,APP-CAND-004938-REQ-2026-000173,withdrawn_candidate_still_scheduled,"{""application_status"": ""Withdrawn"", ""hypothetical_interview_status"": ""Scheduled"", ""requisition_id"": ""REQ-2026-000173""}"
+ANOM-005,Scorecard,SCORE-INT-2026-000041-MGR-000040,irrelevant_evaluation_criterion,"{""criterion"": ""Unrelated Personal Preference"", ""interview_id"": ""INT-2026-000041"", ""reviewer_id"": ""MGR-000040"", ""score"": 8}"

@@ -1,0 +1,6 @@
+anomaly_id,expected_decision,detection_rule
+ANOM-001,Reject transition,Offer transition requires all scheduled interview reviews to be complete
+ANOM-002,Reject or reschedule conflicting booking,An interviewer cannot attend overlapping interviews
+ANOM-003,Reject offer,Offered salary must be between requisition min_salary and max_salary
+ANOM-004,Cancel interview,Withdrawn applications cannot have active scheduled interviews
+ANOM-005,Reject scorecard criterion,Every scorecard criterion must match a SkillRequirement for that requisition

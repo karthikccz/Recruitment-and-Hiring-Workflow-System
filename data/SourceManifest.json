@@ -1,0 +1,110 @@
+[
+    {
+        "file_name": "anomalies.csv",
+        "row_count": 5,
+        "size_bytes": 1219,
+        "sha256": "cb257f1c89c122b5bdf5bd3bac6cb0aed4960f56e59c83e2e59e76ba55964dba"
+    },
+    {
+        "file_name": "Application.csv",
+        "row_count": 8000,
+        "size_bytes": 788809,
+        "sha256": "424c1631255adaf50abe98f59f02b1561d0a3a4aaaff7a2e15a02f878f39c1e0"
+    },
+    {
+        "file_name": "ApplicationOutcome.csv",
+        "row_count": 8000,
+        "size_bytes": 815134,
+        "sha256": "dbbc34a69a1312b7818d2eff00bb3baa7775ca4e76d86a655beab21c9f23d05b"
+    },
+    {
+        "file_name": "Approval.csv",
+        "row_count": 1775,
+        "size_bytes": 152721,
+        "sha256": "7ae5f4858ab225212a479e376f7538e8b4f444607e3b6a3ae1fab2218137fb92"
+    },
+    {
+        "file_name": "Availability.csv",
+        "row_count": 38240,
+        "size_bytes": 2868072,
+        "sha256": "460a401d4861934682f1aefa1b29d1c386366bb3603fff3dfe1e29781877cc3d"
+    },
+    {
+        "file_name": "Candidate.csv",
+        "row_count": 5000,
+        "size_bytes": 437695,
+        "sha256": "841d1cd183d453466df10a1a189454f8618171845f25abd840816470be8b03a0"
+    },
+    {
+        "file_name": "ground_truth.csv",
+        "row_count": 5,
+        "size_bytes": 545,
+        "sha256": "2b2dbce5a689df7d417736b1802e26b063b5c2d6523351aa08ffe9c1a5332270"
+    },
+    {
+        "file_name": "HiringManager.csv",
+        "row_count": 40,
+        "size_bytes": 2467,
+        "sha256": "f5ab6995982cece1aff4a5403a014f445755aa834d0618e3143273e792e732ad"
+    },
+    {
+        "file_name": "Interview.csv",
+        "row_count": 2000,
+        "size_bytes": 192800,
+        "sha256": "5a4a1abe96ad259167842ed4bfe80961f3cc5c55fa6d87d35f7354ebe6f4087c"
+    },
+    {
+        "file_name": "InterviewPanel.csv",
+        "row_count": 200,
+        "size_bytes": 12047,
+        "sha256": "360b455e7239d9ebe07f6b255b7958170cf16b65f2fc4da6b5ff783fe0ae22de"
+    },
+    {
+        "file_name": "Offer.csv",
+        "row_count": 1775,
+        "size_bytes": 156481,
+        "sha256": "658789aa198399ecb6be3e4e98801ba8afa037b210cf640c54b058d6bcb42f41"
+    },
+    {
+        "file_name": "PanelMember.csv",
+        "row_count": 400,
+        "size_bytes": 10025,
+        "sha256": "3b3b7aa0fc5a8cd4dfea3b9f7a42bd077b5b138bc7f09765c8cb7cd1ba3176aa"
+    },
+    {
+        "file_name": "Requisition.csv",
+        "row_count": 200,
+        "size_bytes": 26485,
+        "sha256": "c66a595eb14e740c3d382a7140572497b5c3fb0c54cec7df9ccbc2476d614903"
+    },
+    {
+        "file_name": "Scorecard.csv",
+        "row_count": 3920,
+        "size_bytes": 2040780,
+        "sha256": "f64394d8a624fd378b85488b3cdb3da2bc48d3e8f5f42a327d78f569c3013b27"
+    },
+    {
+        "file_name": "scorecard_completeness.csv",
+        "row_count": 1960,
+        "size_bytes": 51216,
+        "sha256": "4231394e1510a5a54b4f05b20ed72621892a647e0f57985f55b047ce4635f81d"
+    },
+    {
+        "file_name": "SkillRequirement.csv",
+        "row_count": 800,
+        "size_bytes": 33152,
+        "sha256": "13e0ae07d182387974d21db6af78a6c9c78fdce68eae289903ea2809a5592b40"
+    },
+    {
+        "file_name": "StateHistory.csv",
+        "row_count": 6126,
+        "size_bytes": 765408,
+        "sha256": "4ae19b7034c324575193258915b66628c9dbfd6d134835e69b4a04419ea2d44d"
+    },
+    {
+        "file_name": "validation_issues.csv",
+        "row_count": 0,
+        "size_bytes": 36,
+        "sha256": "6152a2f61d42b1807ceb16a585101d2026d7b575e4528c407d283e9ab32a7e74"
+    }
+]
